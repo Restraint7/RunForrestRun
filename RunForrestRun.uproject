@@ -8,6 +8,7 @@
 			"Name": "FMODStudio",
 			"Enabled": true
 <<<<<<< HEAD
+<<<<<<< HEAD
 		},
 		{
 			"Name": "AdvancedSessions",
@@ -18,6 +19,8 @@
 			"Enabled": true
 =======
 >>>>>>> parent of ade2d12... Revert "a"
+=======
+>>>>>>> 0651aa6be1d7274891aec84be04e58945e9f0ddf
 		}
 	]
 }
