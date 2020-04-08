@@ -2,5 +2,22 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.24",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "FMODStudio",
+			"Enabled": true
+<<<<<<< HEAD
+		},
+		{
+			"Name": "AdvancedSessions",
+			"Enabled": true
+		},
+		{
+			"Name": "AdvancedSteamSessions",
+			"Enabled": true
+=======
+>>>>>>> parent of ade2d12... Revert "a"
+		}
+	]
 }
