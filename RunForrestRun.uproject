@@ -5,16 +5,18 @@
 	"Description": "",
 	"Plugins": [
 		{
+			"Name": "FMODStudio",
+			"Enabled": true
+
+		},
+		{
 			"Name": "AdvancedSessions",
 			"Enabled": true
 		},
 		{
 			"Name": "AdvancedSteamSessions",
 			"Enabled": true
-		},
-		{
-			"Name": "FMODStudio",
-			"Enabled": true
+
 		}
 	]
 }
