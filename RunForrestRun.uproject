@@ -5,19 +5,16 @@
 	"Description": "",
 	"Plugins": [
 		{
->>>>>>> parent of dc99efd... update rank
-			"Name": "FMODStudio",
-			"Enabled": true
-
-		},
-		{
 			"Name": "AdvancedSessions",
 			"Enabled": true
 		},
 		{
 			"Name": "AdvancedSteamSessions",
 			"Enabled": true
-
+		},
+		{
+			"Name": "FMODStudio",
+			"Enabled": true
 		}
 	]
 }
