@@ -5,19 +5,29 @@
 	"Description": "",
 	"Plugins": [
 		{
+<<<<<<< HEAD
 			"Name": "AdvancedSessions",
 <<<<<<< HEAD
+=======
+			"Name": "FMODStudio",
+>>>>>>> parent of dc99efd... update rank
+			"Enabled": true
+
+		},
+		{
+<<<<<<< HEAD
+			"Name": "AdvancedSteamSessions",
+=======
+>>>>>>> 15ec9aa738a1625fb7e725332910d52ae8d10a53
+=======
+			"Name": "AdvancedSessions",
+>>>>>>> parent of dc99efd... update rank
 			"Enabled": true
 		},
 		{
 			"Name": "AdvancedSteamSessions",
-=======
->>>>>>> 15ec9aa738a1625fb7e725332910d52ae8d10a53
 			"Enabled": true
-		},
-		{
-			"Name": "FMODStudio",
-			"Enabled": true
+
 		}
 	]
 }
