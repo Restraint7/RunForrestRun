@@ -6,10 +6,13 @@
 	"Plugins": [
 		{
 			"Name": "AdvancedSessions",
+<<<<<<< HEAD
 			"Enabled": true
 		},
 		{
 			"Name": "AdvancedSteamSessions",
+=======
+>>>>>>> 15ec9aa738a1625fb7e725332910d52ae8d10a53
 			"Enabled": true
 		},
 		{
