@@ -11,10 +11,6 @@
 		{
 			"Name": "AdvancedSteamSessions",
 			"Enabled": true
-		},
-		{
-			"Name": "FMODStudio",
-			"Enabled": true
 		}
 	]
 }
