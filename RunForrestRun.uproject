@@ -5,55 +5,13 @@
 	"Description": "",
 	"Plugins": [
 		{
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-			"Name": "AdvancedSessions",
-<<<<<<< HEAD
-=======
-			"Name": "FMODStudio",
 >>>>>>> parent of dc99efd... update rank
-=======
 			"Name": "FMODStudio",
->>>>>>> parent of dc99efd... update rank
-=======
-			"Name": "FMODStudio",
->>>>>>> parent of dc99efd... update rank
-=======
-			"Name": "FMODStudio",
->>>>>>> parent of dc99efd... update rank
-=======
-			"Name": "FMODStudio",
->>>>>>> parent of dc99efd... update rank
 			"Enabled": true
 
 		},
 		{
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-			"Name": "AdvancedSteamSessions",
-=======
->>>>>>> 15ec9aa738a1625fb7e725332910d52ae8d10a53
-=======
 			"Name": "AdvancedSessions",
->>>>>>> parent of dc99efd... update rank
-=======
-			"Name": "AdvancedSessions",
->>>>>>> parent of dc99efd... update rank
-=======
-			"Name": "AdvancedSessions",
->>>>>>> parent of dc99efd... update rank
-=======
-			"Name": "AdvancedSessions",
->>>>>>> parent of dc99efd... update rank
-=======
-			"Name": "AdvancedSessions",
->>>>>>> parent of dc99efd... update rank
 			"Enabled": true
 		},
 		{
