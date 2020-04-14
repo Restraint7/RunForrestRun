@@ -3,13 +3,19 @@
 	"EngineAssociation": "4.24",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "RunForrestRun",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
-			"Name": "AdvancedSessions",
-			"Enabled": true
-		},
-		{
-			"Name": "AdvancedSteamSessions",
+			"Name": "FMODStudio",
 			"Enabled": true
 		}
 	]
